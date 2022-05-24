@@ -8,5 +8,7 @@ int main(int argc, char **argv)
 
 	// added modifications 2 for feature/teho/test1
 
+	// added modifications 3 for feature/teho/test1
+
 	return 0;
 }
