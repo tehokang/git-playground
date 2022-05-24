@@ -14,5 +14,7 @@ int main(int argc, char **argv)
 
 	// added modifications 5 for feature/teho/test1
 
-	return 0;
+	// added modifications 6 from feature/teho/test1
+
+		return 0;
 }
